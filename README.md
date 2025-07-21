@@ -4,7 +4,7 @@
 ## Repository Contents
 
 **File / Folder**                                **Description**
-
+Shopify_Report.pbit                        Power BI template file containing data model, measures, report layout, and parameters. Open this in Power BI Desktop and connect to refreshed data.
 
 
 
