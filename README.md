@@ -2,12 +2,11 @@
 ### This project is a **Sales and Customer Analysis Dashboard** built in **Power BI** using Shopify sales data. It provides insights into revenue, product performance, customer behavior, and payment methods, helping businesses make data-driven decisions.
 
 ## Repository Contents
-
-**File / Folder**                                **Description**
-Shopify_Report.pbit                        Power BI template file containing data model, measures, report layout, and parameters. Open this in Power BI Desktop and connect to refreshed data.
-
-
-
+- Shopify_Report.pbit : Power BI template file containing data model, measures, report layout, and parameters. 
+- Shopify Sales.xlsx : Base dataset (orders, customers, product, billing attributes, price metrics).
+- Shopify : Data Terminology.docx : Field definitions / business glossary for all key columns. Helpful when mapping Shopify exports to the model.
+- assets/ : Screenshots of report pages for README preview
+- README.md : You are here. Full project documentation. 
 
 ##  Project Overview
 
@@ -65,14 +64,8 @@ The dashboard was designed to address the following business questions:
 
 ---
 
-## 🧾 **Data Sources**
-
-- **Shopify Sales.xlsx** – Contains raw Shopify transactional data (orders, products, billing info, payments).
-- **Shopify - Data Terminology.docx** – Definitions for all columns such as `Order Number`, `Billing Address`, `Gateway`, `Product Type`, etc.
-- **Shopify_Report.pbit** – The Power BI template with all data modeling, DAX measures, and visuals.
-
 ---
-## 📌 **Steps Followed**
+##  **Steps Followed**
 
 The project followed these structured steps:
 1. **Requirement Gathering & Business Understanding**
@@ -87,7 +80,7 @@ The project followed these structured steps:
 10. **Insights Generation** – Key findings and trends.
 
 ---
-## 🧠 **Key KPIs Implemented**
+##  **Key KPIs Implemented**
 - **Net Sales**  
 - **Total Quantity Sold**  
 - **Average Order Value (AOV)**  
@@ -97,7 +90,7 @@ The project followed these structured steps:
 - **Purchase Frequency**
 
 ---
-## ⚙️ **Tools & Skills Used**
+## ⚙ **Tools & Skills Used**
 - **Power BI Desktop** (Data Modeling, DAX, Visual Design)
 - **Excel** for data pre-processing
 - **Map Visualizations & Dynamic KPI selectors**
@@ -105,7 +98,7 @@ The project followed these structured steps:
 
 ---
 
-## 📸 **Dashboard Preview**
+##  **Dashboard Preview**
 > *(Insert a screenshot of your Power BI dashboard here.)*
 
 ---
