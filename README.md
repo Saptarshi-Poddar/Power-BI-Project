@@ -1,5 +1,5 @@
 #  Power BI Project 
-### This project is a **Sales and Customer Analysis Dashboard** built in **Power BI** using Shopify sales data. It provides insights into revenue, product performance, customer behavior, and payment methods, helping businesses make data-driven decisions.
+This project is a **Sales and Customer Analysis Dashboard** built in **Power BI** using Shopify sales data. It provides insights into revenue, product performance, customer behavior, and payment methods, helping businesses make data-driven decisions.
 
 ## Repository Contents
 - Shopify_Report.pbit : Power BI template file containing data model, measures, report layout, and parameters. 
