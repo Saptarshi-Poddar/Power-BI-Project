@@ -61,9 +61,6 @@ The dashboard was designed to address the following business questions:
 ### **4. Detailed Data View**
 - A **dedicated drill-through page** for transaction-level data.
 - Allows users to explore individual **orders, customers, or products**.
-
----
-
 ---
 ##  **Steps Followed**
 
@@ -99,15 +96,6 @@ The project followed these structured steps:
 ---
 
 ##  **Dashboard Preview**
-> *(Insert a screenshot of your Power BI dashboard here.)*
-
+> *(![Dashboard Preview](https://github.com/Saptarshi-Poddar/Power-BI-Project/blob/main/Shopify%20Dashboard%20(1).png))*
+> *(![Dashboard Preview](https://github.com/Saptarshi-Poddar/Power-BI-Project/blob/main/Shopify%20Dashboard%20(2).png))*
 ---
-
-
-
-
-
-
-### 6.	Screenshots
-Example: ![Dashboard Preview](https://github.com/Saptarshi-Poddar/Power-BI-Project/blob/main/Shopify%20Dashboard%20(1).png)
-![Dashboard Preview](https://github.com/Saptarshi-Poddar/Power-BI-Project/blob/main/Shopify%20Dashboard%20(2).png)
